@@ -1,6 +1,6 @@
 ---
 cluster_name: vkpr-teste
-cluster_version: "1.23"
+cluster_version: "1.25"
 cidr_block: 10.50.0.0/16
 private_subnets:
   - 10.50.1.0/24
